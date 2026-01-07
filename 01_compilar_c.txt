@@ -1,1 +1,7 @@
 gcc main.c -o qualquernome
+
+04_Lista simplesmente encadeadas (Estruturas lineares dinamicas)
+gcc -c main.c
+gcc -c lista_encadeada_03.c
+gcc main.o lista_encadeada_03.o -o lista
+cl
